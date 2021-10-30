@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Picture</string>
+    <string name="get_picture">Get Picture</string>
+    <string name="convert_to_base64">Convert to Base64</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+</resources>
